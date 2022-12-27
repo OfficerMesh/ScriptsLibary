@@ -1,0 +1,13 @@
+--Functions:
+Subtract Functions
+local S25 ="-25"
+local S50="-50"
+local S75="-75"
+local S250="-250"
+local S500="-500"
+local S750 ="-750"
+local S1000="-1000"
+local S100 = "-100"
+
+--Grab Knobs Value
+local KnobsValue = 	require(game.ReplicatedStorage.ReplicaDataModule).event.Knobs()
