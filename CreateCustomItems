@@ -1,0 +1,24 @@
+local ItemName = game:GetObjects("rbxassetid://your tool asset id")[1]
+ItemName.Name = "Your Item Name"
+ItemName.Parent = game.Players.LocalPlayer.Backpack
+
+--UNDER HERE PUT YOUR SCRIPT HERE 
+
+--[[
+Tool Setup
+[+] You need to make a tool in RBLXStudio or use a free model.
+[+] Cant be a model or a part, needs to be a tool.
+[+] Replace ItemName with your tools name.
+
+
+Animation Setup
+For animation you need to setup a idle animation and put it in a folder named Animations
+
+If you are lazy to make your own, I'll give you one.
+https://www.roblox.com/library/11904896422/Animation 
+
+Putting Animation In 
+Only works if you are making your own item or modifying a tool to make another item
+Get the Animation Folder I put and put it in the Tool and done.
+Then Publish it and  RBXASSERID://your tool id
+]]
