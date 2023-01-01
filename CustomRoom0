@@ -1,0 +1,10 @@
+--find room 0 model
+--THANK YOU quirrel (jeb)#0001
+-- IN ROBLOX STUDIO PUT THE ORIENTATION TO 0,90,0
+-- AND POSITION TO -60, 20, 3240 TO REPLACE
+
+local model = game:GetObjects("rbxassetid://your model id")[1] --your room 0 id
+model.Parent = workspace.CurrentRooms
+workspace.CurrentRooms[0]:Remove()
+
+-- REST OF SCRIPTING GOES HERE
