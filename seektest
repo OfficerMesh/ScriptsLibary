@@ -1,0 +1,696 @@
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 30 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 31 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 33 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 30 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 34 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 35 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 36 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 37 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 38 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 39 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 40 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 40 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 30 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 41 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 42 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 43 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 44 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 45 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 80 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 81 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 82 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 83 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 84 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 85 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 86 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 87 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 88 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 89 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value == 90 then
+game.Workspace:WaitForChild("SeekMoving")
+game.Workspace.SeekMoving.Figure.Transparency = 0
+game.Workspace.SeekMoving.Figure.Attachment.ParticleEmitter.Enabled = true
+game.Workspace.SeekMoving.SeekRig.UpperTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightUpperArm.ParticleEmitter.Enabled = false
+game.Workspace.SeekMoving.SeekRig.RightUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.RightLowerArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LowerTorso.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Decal.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftLowerLeg.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.LeftUpperArm.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Root.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.SeekPuddle.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Black.Transparency = 1
+game.Workspace.SeekMoving.SeekRig.Head.Attachment.Visible = false
+game.Workspace.SeekMoving.SeekRig.Head.Eye.Transparency = 1
+end
+
